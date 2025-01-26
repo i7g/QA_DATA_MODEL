@@ -8,8 +8,9 @@ This project creates a data model with the following 6 source tables:
  - `autoqa_ratings.csv`
  - `autoqa_root_cause.csv`
 
-An Entity diagram showcasing how each table relates to each other was created using draw.io as the following file:
- - `entity_relationship_diagram.drawio`
+An Entity diagram showcasing how each table relates to each other was created using draw.io as the following files:
+ - `entity_relationship_diagram.drawio` (editable file via draw.io)
+ - `entity_relationship_diagram.drawio.png`
 
 ## Table Details 
 
